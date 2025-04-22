@@ -1,1 +1,19 @@
-# 25
+proxies:
+  - {name: 🇺🇸 US SJC/SPK SH, server: sh.mkxk.dj, port: 21409, type: ss, cipher: aes-128-gcm, password: Euler, udp: true}
+  - {name: 🇺🇸 US SJC ZJCT, server: sh.mkxk.dj, port: 21409, type: ss, cipher: aes-128-gcm, password: Euler, udp: true}
+  - {name: 🇺🇸 US SPK ZJCT, server: sh.mkxk.dj, port: 21409, type: ss, cipher: aes-128-gcm, password: Euler, udp: true}
+  - {name: 🇯🇵 JP ZJCT, server: sh.mkxk.dj, port: 21409, type: ss, cipher: aes-128-gcm, password: Euler, udp: true}
+  - {name: 🇯🇵 JP ZJCM, server: sh.mkxk.dj, port: 21409, type: ss, cipher: aes-128-gcm, password: Euler, udp: true}
+  - {name: 🇭🇰 HK/SG IEPL, server: ee.ednovas.cloud, port: 19916, type: ss, cipher: aes-128-gcm, password: Euler, udp: true}
+  - {name: 🇭🇰 HK ZJCT, server: sh.mkxk.dj, port: 21409, type: ss, cipher: aes-128-gcm, password: Euler, udp: true}
+  - {name: 🇭🇰 HK ZJCM,server: sh.mkxk.dj, port: 21409, type: ss, cipher: aes-128-gcm, password: Euler, udp: true}
+  - {name: 🇸🇬 SG ZJCT,server: sh.mkxk.dj, port: 21409, type: ss, cipher: aes-128-gcm, password: Euler, udp: true}
+  - {name: 🇸🇬 SG ZJCM, server: sh.mkxk.dj, port: 21409, type: ss, cipher: aes-128-gcm, password: Euler, udp: true}
+  - {name: 🇨🇳 TW HKIPLC, server: sh.mkxk.dj, port: 21409, type: ss, cipher: aes-128-gcm, password: Euler, udp: true}
+  - {name: Test, server: server: sh.mkxk.dj, port: 21409, type: ss, cipher: aes-128-gcm, password: Euler, udp: true}
+  - {name: 🇯🇵 備用 JP 上海, server: sh.mkxk.dj, port: 21409, type: ss, cipher: aes-128-gcm, password: Euler, udp: true}
+  - {name: 🇯🇵 備用 JP 湖北, server: qqb12.198139.xyz, port: 10040, type: ss, cipher: aes-128-gcm, password: Euler, udp: true}
+  - {name: 🇭🇰 備用 HK 上海, server: cqq210.198139.xyz, port: 50769, type: ss, cipher: aes-128-gcm, password: Euler, udp: true}
+  - {name: 🇭🇰 備用 HK 廣西, server: qqa813.198139.xyz, port: 44314, type: ss, cipher: aes-128-gcm, password: Euler, udp: true}
+  - {name: 🇭🇰 備用 HK 廣州, server: zxdx.yyds.rest, port: 34038, type: ss, cipher: aes-128-gcm, password: Euler, udp: true}
+  - {name: 🇺🇸 備用 US 上海, server: cqq210.198139.xyz, port: 11919, type: ss, cipher: aes-128-gcm, password: Euler, udp: true}
